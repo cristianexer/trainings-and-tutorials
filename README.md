@@ -1,7 +1,7 @@
 Trainings and Tutorials
 ==============================
 
-This repository includes notebooks around Data Science trainings iand tutorials around different topics in the field.
+This repository includes notebooks around Data Science trainings and tutorials around different topics in the field.
 
 Project Organization
 ------------
