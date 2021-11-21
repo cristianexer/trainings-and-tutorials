@@ -1,0 +1,21 @@
+name: trainings-and-tutorials
+
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - ipykernel
+  - scikit-learn
+  - scipy
+  - xgboost
+  - lightgbm
+  - minio
+  - sqlalchemy
+  - psycopg2
+  - pyarrow
+  - fastparquet
+  - networkx
+  - mlflow
+  - boto3
